@@ -47,6 +47,17 @@
     height: 20px; 
     margin-right: 8px; 
 }
+.segona-linea {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.segona-linea > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
   
   /* Grouping content
      ========================================================================== */
