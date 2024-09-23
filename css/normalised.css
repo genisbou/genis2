@@ -42,6 +42,11 @@
     margin: 0.67em 0; */
     background-color: #ADD8E6;
   }
+  .menu ul li a img {
+    width: 20px; 
+    height: 20px; 
+    margin-right: 8px; 
+}
   
   /* Grouping content
      ========================================================================== */
