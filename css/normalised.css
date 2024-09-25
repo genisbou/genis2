@@ -58,7 +58,21 @@
   padding: 10px;
   font-size: 10px;
 }
-  
+
+
+.segona-linia {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: DodgerBlue;
+    padding: 20px;
+    color: white;
+}
+
+.foto {
+  width: 150px; 
+}
+
   /* Grouping content
      ========================================================================== */
   
