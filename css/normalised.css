@@ -85,6 +85,10 @@
   text-align: center;
 
 }
+.seccio a {
+  text-decoration: none;
+  color: black;
+}
 
   /* Grouping content
      ========================================================================== */
