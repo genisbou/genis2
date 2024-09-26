@@ -79,6 +79,12 @@
     padding: 20px;
     background-color: #f1f1f1;
 }
+.tercera-linia .seccio img {
+  width: 50px; 
+  height: 50px;
+  text-align: center;
+
+}
 
   /* Grouping content
      ========================================================================== */
