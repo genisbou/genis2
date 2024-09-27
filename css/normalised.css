@@ -38,21 +38,15 @@
    */
   
   h1 {
-    /* font-size: 2em;
-    margin: 0.67em 0; */
     background-color: #ADD8E6;
   }
-
-
-
-
 
 .segona-linea {
   display: flex;
   justify-content: space-between;
   text-align: center;
   background-color: DodgerBlue;
-  padding: 20px;
+  padding: 40px;
   color: white;
 }
 
