@@ -48,12 +48,7 @@
     margin-right: 8px; 
 }
 
-.segona-linea > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 10px;
-  font-size: 10px;
-}
+
 
 
 .segona-linea {
@@ -62,6 +57,7 @@
   text-align: center;
   background-color: DodgerBlue;
   padding: 20px;
+  color: white;
 }
 
 .foto {
