@@ -31,5 +31,13 @@ h1 {
   
 .experiencia {
   text-align: center;
+  background-color: DodgerBlue;
   
+  }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: grey;
+    color: white;
   }
