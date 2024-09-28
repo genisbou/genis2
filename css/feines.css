@@ -1,4 +1,10 @@
-div {
+.galeria{
     display: flex;
-    justify-content: space-between;
+    flex-flow: wrap;
+    justify-content: center;
+  }
+  
+  .galeria img{
+    max-width: 400px;
+    padding: 1rem;
   }
