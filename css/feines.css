@@ -1,7 +1,7 @@
 .galeria {
     display: flex;
     flex-wrap: wrap; 
-    justify-content: center;
+    justify-content: center; 
     background-color: DodgerBlue;
     padding: 1rem;
   }
@@ -10,9 +10,11 @@
     background-color: #f1f1f1;
     margin: 10px; 
     padding: 1rem;
+    text-align: center; 
   }
   
   .galeria img {
     max-width: 200px; 
-    height: auto;
+    height: auto; 
   }
+  
