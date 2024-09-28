@@ -46,7 +46,7 @@
     margin-right: 8px; 
 }
 
-.segona-linea > div {
+.segona-linea{
   display: flex;
   justify-content: space-between;
   text-align: center;
