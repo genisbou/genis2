@@ -46,14 +46,17 @@
     margin-right: 8px; 
 }
 
-.segona-linea{
-  display: flex;
-  justify-content: space-between;
-  text-align: center;
-  background-color: DodgerBlue;
-  padding: 20px;
-  color: white;
+
+@media only screen and (max-width: 600px) {
+  .segona-linea {
+    display: flex;
+    justify-content: space-between;
+    background-color: DodgerBlue;
+    padding: 20px;
+    color: white;
+  }
 }
+
 
 .foto {
   width: 100px; 
