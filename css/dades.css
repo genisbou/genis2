@@ -26,4 +26,27 @@ h1 {
     
   }
 
-  
+.dades {
+    text-align: center;
+    background-color: DodgerBlue;
+    
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: grey;
+    color: white;
+  }
+
+
